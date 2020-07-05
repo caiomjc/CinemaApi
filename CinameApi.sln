@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinameApi", "CinameApi\CinameApi.csproj", "{5B9E6EE1-DAD0-4078-9E2D-A4C6BCAC19FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B9E6EE1-DAD0-4078-9E2D-A4C6BCAC19FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B9E6EE1-DAD0-4078-9E2D-A4C6BCAC19FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B9E6EE1-DAD0-4078-9E2D-A4C6BCAC19FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B9E6EE1-DAD0-4078-9E2D-A4C6BCAC19FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {457276D5-0F12-4EEE-B7CB-C614AFC25CCA}
+	EndGlobalSection
+EndGlobal
